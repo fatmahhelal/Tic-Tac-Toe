@@ -28,5 +28,5 @@ Here is a screenshot for this game, which gives a response when the user wins.
 <img src="img/game.png">
 
 ### Links
-* Live - <a href= 'https://pages.git.generalassemb.ly/fatmahhelal/Tic-Tac-Toe-fatimah/'> Here </a>
-* Github - <a href= 'https://git.generalassemb.ly/fatmahhelal/Tic-Tac-Toe-fatimah'> Here </a>
+* Live - <a href= 'https://pages.git.generalassemb.ly/fatmahhelal/Tic-Tac-Toe/'> Here </a>
+* Github - <a href= 'https://git.generalassemb.ly/fatmahhelal/Tic-Tac-Toe'> Here </a>
