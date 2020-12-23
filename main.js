@@ -85,6 +85,8 @@ function unbindWin(forWhat, playerTurn) {
     status.text("Player " + playerTurn + " Wiiiiin!!")
     status.css({ fontSize: "40px" })
     cell.css({ cursor: "context-menu" })
+    $('body').css('backgroundColor', 'green')
+
 }
 //#endregion
 
