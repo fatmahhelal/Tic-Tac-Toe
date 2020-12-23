@@ -6,6 +6,9 @@ let countX = 0;
 let countO = 0;
 var turn = 'X'
 
+
+//#region game events
+
 // add 3 events for all fo cell for who turn is 
 // 1-mouseenter any cell
 cell.mouseenter(function() {
@@ -68,6 +71,9 @@ cell.click(function() {
     unbind(play)
 })
 
+//#endregion
+
+// #region unbind 
 function unbind(forWhat) {
     $(forWhat).unbind('mouseleave');
     $(forWhat).unbind('mouseenter');
@@ -77,9 +83,12 @@ function unbind(forWhat) {
 function unbindWin(forWhat, playerTurn) {
     unbind(forWhat)
     status.text("Player " + playerTurn + " Wiiiiin!!")
-    status.css({ fontSize: "33px" })
+    status.css({ fontSize: "40px" })
     cell.css({ cursor: "context-menu" })
 }
+//#endregion
+
+// #region Win
 // who win the game
 function checkWin(player) {
     if (classCheck($('#cel3'), $('#cel2'), $('#cel1'), player)) {
@@ -125,6 +134,9 @@ function winCell(cell1, cell2, cell3) {
     $(cell2).css('backgroundColor', 'black')
     $(cell3).css('backgroundColor', 'black')
 }
+
+//#endregion
+
 // restart the game by the button 
 restartButton.on('click', function() {
     location.reload()
