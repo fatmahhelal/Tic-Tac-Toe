@@ -16,7 +16,7 @@ Here are the original wireframe for this project.
 * As a user, I should not be able to continue playing once I win, lose, or tie
 * As a user, I should be able to play the game again without refreshing the page
 
-## Technologies used.
+## Technologies Used.
 * HTML
 * CSS
 * JavaScript
