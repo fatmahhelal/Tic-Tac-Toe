@@ -4,6 +4,7 @@ Tic Tac Toe is a game for two players, X and O, who take turns marking the space
 
 ## Wireframe
 Here are the original wireframe for this project. 
+
 <img src="img/tic_framwork.png">
 
 ## User Stories
