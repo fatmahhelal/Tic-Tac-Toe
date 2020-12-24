@@ -29,7 +29,7 @@ Here is a screenshot for this game on desktop browser, which gives a response wh
 
 Also, the game can play on phone browser.
 
-<img src="img/phone.png">
+<img src="img/phon.png">
 
 ### Links
 * Live - <a href= 'https://pages.git.generalassemb.ly/fatmahhelal/Tic-Tac-Toe/'> Here </a>
