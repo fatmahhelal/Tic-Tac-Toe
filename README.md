@@ -23,9 +23,13 @@ Here are the original wireframe for this project.
 * JQuery
 
 ## The Game 
-Here is a screenshot for this game, which gives a response when the user wins. 
+Here is a screenshot for this game on desktop browser, which gives a response when the user wins. 
 
 <img src="img/game.png">
+
+Also, the game can play on phone browser.
+
+<img src="img/phone.png">
 
 ### Links
 * Live - <a href= 'https://pages.git.generalassemb.ly/fatmahhelal/Tic-Tac-Toe/'> Here </a>
