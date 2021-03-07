@@ -33,4 +33,4 @@ Also, the game can play on phone browser.
 
 ### Links
 * Live - <a href= 'https://pages.git.generalassemb.ly/fatmahhelal/Tic-Tac-Toe/'> Here </a>
-* Github - <a href= 'https://git.generalassemb.ly/fatmahhelal/Tic-Tac-Toe'> Here </a>
+* Github - <a href= 'https://github.com/fatmahhelal/Tic-Tac-Toe'> Here </a>
